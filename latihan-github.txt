@@ -6,4 +6,3 @@ Jenis Framework
   4. Golang
   5. Node.js
   6. React Native
-  7. Codegniter
